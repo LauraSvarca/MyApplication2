@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">Email</string>
+    <string name="Fjalekalimi">Fjalekalimi</string>
+    <string name="fjalekalimi">fjalkalimi</string>
+    <string name="perdoruesi" />
+    <string name="Perdoruesi">Perdoruesi</string>
+    <string name="Kyqu">Kyqu</string>
+    <string name="Regjistrimi">Regjistrohu ketu!</string>
+    <string name="Emri">Emri</string>
+    <string name="Mbiemri">Mbiemri</string>
+    <string name="Age">Age</string>
+</resources>
